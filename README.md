@@ -1,4 +1,4 @@
-# HomeworkDotnetC-Seminar3
+# HomeworkDotnetC#Seminar3
 One: Input: 5-digit number, Output: palindrome or not;
 
 Two: Input - 3D coordinates a, b; Output - distance between;

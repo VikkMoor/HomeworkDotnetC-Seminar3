@@ -1,6 +1,6 @@
 # HomeworkDotnetC#Seminar3
-One: Input: 5-digit number, Output: palindrome or not;
+One: input 5-digit number, output - palindrome or not.
 
-Two: Input - 3D coordinates a, b; Output - distance between;
+Two: input - 3D coordinates a, b; output - distance between.
 
-3rd: Input N, Output - cube number table 1..N.
+3rd: input N, output - table of cubes 1..N.
